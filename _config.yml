@@ -1,0 +1,18 @@
+title: ESFM Tesla GFNY Training
+description: Standardized frontline SOPs, route cards, and checklists for Tesla GFNY EVS.
+remote_theme: just-the-docs/just-the-docs
+
+# Site-wide settings
+logo: /assets/img/logo.png
+search_enabled: true
+color_scheme: nil
+
+# Navigation helpers
+aux_links:
+  EVS X-Ray (CLEAN MOPS) Home: https://example.com/clean-mops
+  EVS QR Scan Form: https://example.com/qr-form
+  Incoming Manager Handoff: https://example.com/incoming-form
+  Outgoing Manager Handoff: https://example.com/outgoing-form
+
+# Footer
+footer_content: "© ESFM / Compass Group — Internal use for Tesla GFNY. Last updated: {{ site.time | date: '%Y-%m-%d' }}"
