@@ -7,11 +7,8 @@ nav_order: 16
 # Download Center
 
 All printable SOPs, quick cards, and forms by role.  
-Place files under `assets/files/<role>/` and ensure the **filenames match exactly** (case-sensitive).
+Files below are **PDF** (mobile-friendly, printable).
 
-> Tip: To make a page into a PDF, open it on the site and use **Print → Save as PDF**, then upload to the correct folder below.
-
----
 
 ## Frontline (All EVS)
 - [End of Shift — Frontline (PDF)]({{ "/assets/files/frontline/End-of-Shift-Frontline.pdf" | relative_url }})
@@ -36,15 +33,7 @@ Place files under `assets/files/<role>/` and ensure the **filenames match exactl
 - [High-Traffic Aisle — Spill Response (PDF)]({{ "/assets/files/factory-evs/Aisle-Spill-Response.pdf" | relative_url }})
 
 ## Projects
-- [Project Plan Template (DOCX)]({{ "/assets/files/projects/Project-Plan-Template.docx" | relative_url }})
+- [Project Plan — Template (PDF)]({{ "/assets/files/projects/Project-Plan-Template.pdf" | relative_url }})
 - [Kaivac Cycle — Checklist (PDF)]({{ "/assets/files/projects/Kaivac-Cycle-Checklist.pdf" | relative_url }})
-- [Project Workers — Quick Card (HTML)]({{ "/assets/files/projects/Project-Workers-Training-Quick-Card.html" | relative_url }})
-
----
-
-### How to add files
-1. In GitHub, open **assets → files → &lt;role&gt;/** (e.g., `assets/files/frontline/`).
-2. **Add file → Upload files** → drag in your PDF/DOCX/HTML.
-3. **Commit changes**.
-4. If filenames differ, update the link text above to match exactly.
+- [Project Workers — Quick Card (PDF)]({{ "/assets/files/projects/Project-Workers-Training-Quick-Card.pdf" | relative_url }})
 
