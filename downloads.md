@@ -43,7 +43,8 @@ Place files under `assets/files/<role>/` and ensure the **filenames match exactl
 ---
 
 ### How to add files
-1. In GitHub, open **assets → files → <role>/** (e.g., `assets/files/frontline/`).
+1. In GitHub, open **assets → files → &lt;role&gt;/** (e.g., `assets/files/frontline/`).
 2. **Add file → Upload files** → drag in your PDF/DOCX/HTML.
 3. **Commit changes**.
 4. If filenames differ, update the link text above to match exactly.
+
