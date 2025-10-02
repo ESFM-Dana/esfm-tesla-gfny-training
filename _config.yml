@@ -9,10 +9,10 @@ color_scheme: nil
 
 # Navigation helpers
 aux_links:
-  EVS X-Ray (CLEAN MOPS) Home: https://example.com/clean-mops
-  EVS QR Scan Form: https://example.com/qr-form
-  Incoming Manager Handoff: https://example.com/incoming-form
-  Outgoing Manager Handoff: https://example.com/outgoing-form
+  ESFM Sharepoint Site: https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx
+  EVS Daily Shift Log: https://cpgplc.sharepoint.com/sites/esfmtgfny/_layouts/15/listforms.aspx?cid=ZDk0MzVjMmMtMjdhNi00ZGUzLTkxMTctYWM4YmZmYTE5NWI2&nav=ZjY1NDRhY2EtOTI5Ny00NWYxLWIyODctMDZlY2QzNzBhZDhl
+  Incoming Manager Handoff: https://cpgplc.sharepoint.com/sites/esfmtgfny/_layouts/15/listforms.aspx?cid=ZWExNzk0ODgtN2M5ZS00OWFkLThjOWQtZjhlMDVlMWUyY2Rj&nav=Y2I0NmJmZDgtMGRiNS00MmUyLThkMmYtMWVhYzM1ZTA4NTFk
+  Outgoing Manager Handoff: https://cpgplc.sharepoint.com/sites/esfmtgfny/_layouts/15/listforms.aspx?cid=OGY3MjY0OTctMjI4Mi00MDMyLTgxNTEtZTg0ZjE2NTc2MTQ1&nav=OThmZTM0OGYtMjY0Zi00YWEzLTg3OTctNmNkMzdiZjMwMzIz
 
 # Footer
 footer_content: "© ESFM / Compass Group — Internal use for Tesla GFNY. Last updated: {{ site.time | date: '%Y-%m-%d' }}"
