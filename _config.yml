@@ -10,9 +10,9 @@ color_scheme: nil
 # Navigation helpers
 aux_links:
   ESFM Sharepoint Site: https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx
-  EVS Daily Shift Log: https://cpgplc.sharepoint.com/sites/esfmtgfny/_layouts/15/listforms.aspx?cid=ZDk0MzVjMmMtMjdhNi00ZGUzLTkxMTctYWM4YmZmYTE5NWI2&nav=ZjY1NDRhY2EtOTI5Ny00NWYxLWIyODctMDZlY2QzNzBhZDhl
-  Incoming Manager Handoff: https://cpgplc.sharepoint.com/sites/esfmtgfny/_layouts/15/listforms.aspx?cid=ZWExNzk0ODgtN2M5ZS00OWFkLThjOWQtZjhlMDVlMWUyY2Rj&nav=Y2I0NmJmZDgtMGRiNS00MmUyLThkMmYtMWVhYzM1ZTA4NTFk
-  Outgoing Manager Handoff: https://cpgplc.sharepoint.com/sites/esfmtgfny/_layouts/15/listforms.aspx?cid=OGY3MjY0OTctMjI4Mi00MDMyLTgxNTEtZTg0ZjE2NTc2MTQ1&nav=OThmZTM0OGYtMjY0Zi00YWEzLTg3OTctNmNkMzdiZjMwMzIz
+ Download Center — DOCX Originals: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx.html
+  Download Center: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads.html
+  Emergency Evacuation — EVS Playbook (All Shifts): https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation.html
 
 # Footer
 footer_content: "© ESFM / Compass Group — Internal use for Tesla GFNY. Last updated: {{ site.time | date: '%Y-%m-%d' }}"
