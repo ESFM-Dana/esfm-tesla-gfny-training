@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Cafés / Kitchenettes / Break Areas
-nav_order: 3
+parent: Frontline SOPs
+nav_order: 2
 ---
 
 # Cafés / Kitchenettes / Break Areas — Duties

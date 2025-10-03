@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Shift Leads — EVS Playbook
-nav_order: 11
+parent: Roles & Training
+nav_order: 2
 ---
 
 # Shift Leads — Route Ownership & Coaching

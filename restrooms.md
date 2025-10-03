@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Restrooms & Showers
-nav_order: 2
+parent: Frontline SOPs
+nav_order: 1
 ---
 
 # Restrooms / Showers — Daily Task List

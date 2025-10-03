@@ -1,7 +1,8 @@
 ---
 layout: default
 title: End of Shift — Frontline
-nav_order: 17
+parent: End of Shift
+nav_order: 1
 ---
 
 # End of Shift — Frontline

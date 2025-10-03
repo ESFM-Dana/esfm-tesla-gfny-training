@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Factory EVS — Scope & Standards
-nav_order: 13
+parent: Roles & Training
+nav_order: 4
 ---
 
 # Factory EVS — Scope & Standards

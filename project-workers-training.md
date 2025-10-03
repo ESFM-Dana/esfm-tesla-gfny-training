@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Project Workers — Training
-nav_order: 15
+parent: Roles & Training
+nav_order: 6
 ---
 
 # Project Workers — Training

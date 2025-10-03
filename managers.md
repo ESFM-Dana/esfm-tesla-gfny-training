@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Managers — EVS Playbook
-nav_order: 10
+parent: Roles & Training
+nav_order: 1
 ---
 
 # Managers — EVS Playbook

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Floor Techs — Floor Care Standards
-nav_order: 12
+parent: Roles & Training
+nav_order: 3
 ---
 
 # Floor Techs — Floor Care Standards

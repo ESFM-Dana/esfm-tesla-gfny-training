@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Project Work — Planning & QA
-nav_order: 14
+parent: Roles & Training
+nav_order: 5
 ---
 
 # Project Work — Planning & QA

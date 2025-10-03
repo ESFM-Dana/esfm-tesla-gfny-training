@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Emergency Evacuation (EVS)
-nav_order: 7
+parent: Operations & Add-ons
+nav_order: 1
 ---
 
 # Emergency Evacuation — EVS Playbook (All Shifts)

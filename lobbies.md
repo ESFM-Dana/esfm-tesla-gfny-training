@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Lobbies / Entrances / Security
-nav_order: 4
+parent: Frontline SOPs
+nav_order: 3
 ---
 
 # Lobbies / Entrances / Security — Daily Standards

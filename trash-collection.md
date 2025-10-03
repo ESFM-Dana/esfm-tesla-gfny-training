@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Trash Collection (Interior & Exterior)
-nav_order: 9
+parent: Operations & Add-ons
+nav_order: 3
 ---
 
 # Trash Collection — Interior & Exterior Standards

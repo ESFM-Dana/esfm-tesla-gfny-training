@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Janitor’s Closet
-nav_order: 8
+parent: Operations & Add-ons
+nav_order: 2
 ---
 
 # Janitor’s Closet — End-of-Shift Standards

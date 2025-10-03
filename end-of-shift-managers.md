@@ -1,7 +1,8 @@
 ---
 layout: default
 title: End of Shift — Managers
-nav_order: 18
+parent: End of Shift
+nav_order: 2
 ---
 
 # End of Shift — Managers
