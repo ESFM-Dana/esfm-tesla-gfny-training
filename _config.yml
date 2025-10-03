@@ -3,27 +3,27 @@ description: Standardized frontline SOPs, route cards, and checklists for Tesla 
 remote_theme: just-the-docs/just-the-docs
 
 # Add these so /restrooms, /downloads, etc. resolve correctly on a project site
-url: https://esfm-dana.github.io
-baseurl: /esfm-tesla-gfny-training
+url: "https://esfm-dana.github.io"
+baseurl: "/esfm-tesla-gfny-training"
 
 # Site-wide settings
-logo: /assets/img/logo.png
+logo: "/assets/img/logo.png"
 search_enabled: true
 # color_scheme: light   # (optional) remove or set to "dark" if you enable dark mode
 
 # Navigation helpers (header links)
 aux_links:
-  ESFM SharePoint Site: https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx
-  Download Center — DOCX: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx
-  Download Center — PDF: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads
-  Emergency Evacuation — EVS Playbook: https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation
+  ESFM SharePoint Site: "https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx"
+  Download Center — DOCX: "https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx"
+  Download Center — PDF: "https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads"
+  Emergency Evacuation — EVS Playbook: "https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation"
 aux_links_new_tab: true
 
 # Optional: show "Last updated" in the page header (Git blame date)
 last_edit_timestamp: true
 last_edit_time_format: "%Y-%m-%d"
 
-# Footer (use a YAML block so Liquid renders; no quote escaping needed)
+# Footer
 footer_content: >
   © ESFM / Compass Group — Internal use for Tesla GFNY.
   Last updated: {{ site.time | date: "%Y-%m-%d" }}
