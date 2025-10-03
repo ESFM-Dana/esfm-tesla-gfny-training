@@ -28,6 +28,3 @@ nav_order: 5
 ## QR Process (Exit-Only)
 - Scan the QR **after** the work is complete and you are **leaving** the room.  
 - Use Notes for shortages, damage, safety hazards, or layout issues.
-  
-**Downloads**  
-- (If uploaded) `[Offices / Training Rooms — DOCX]({{ "/assets/files/GFNY_Offices_Training Rooms_Zone_Training_Manual (2).docx" | relative_url }})`

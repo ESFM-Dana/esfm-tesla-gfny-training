@@ -3,8 +3,8 @@ description: Standardized frontline SOPs, route cards, and checklists for Tesla 
 remote_theme: just-the-docs/just-the-docs
 
 # Add these so /restrooms, /downloads, etc. resolve correctly on a project site
-url: "https://esfm-dana.github.io"
-baseurl: "/esfm-tesla-gfny-training"
+url: https://esfm-dana.github.io
+baseurl: /esfm-tesla-gfny-training
 
 # Site-wide settings
 logo: "/assets/img/logo.png"

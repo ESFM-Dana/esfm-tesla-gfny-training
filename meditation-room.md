@@ -37,7 +37,3 @@ nav_order: 6
 - 🛒 Keep cleaning supplies out of sight from the meditation area.
 - 🔇 Maintain quiet and respect—these are silent wellness spaces.
 - 🚨 Report hazards or misuse to leadership immediately.
-
-**Downloads**  
-- (Optional) Add a Word/PDF link once uploaded, e.g.:  
-  `[Meditation Room — DOCX]({{ "/assets/files/GFNY_Meditation_Room_Training.docx" | relative_url }})`
