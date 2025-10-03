@@ -1,0 +1,12 @@
+
+CLEANUP — to keep English sidebar clean
+=======================================
+Delete any leftover ES/AR items at repo root (if present):
+- *-es.md, *-ar.md
+- español.md, arabic.md
+- folders named es/ or ar/
+
+Keep only these for languages:
+- _es/  (Spanish site)
+- _ar/  (Arabic site)
+- assets/files/es/ and assets/files/ar/ for documents

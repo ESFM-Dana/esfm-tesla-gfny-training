@@ -35,3 +35,7 @@ nav_order: 4
 - 🧽 Clean as you go—handle debris, spills, and smudges immediately.
 - 🚨 Report broken lights, hazards, or spills to management right away.
 - ✅ Do a final pass before shift end so corridors look polished and safe.
+
+**Downloads**  
+- (Optional) Add a Word/PDF here once uploaded, e.g.:  
+  `[Hallways — DOCX]({{ "/assets/files/GFNY_Hallways_Zone_Training_Manual.docx" | relative_url }})`

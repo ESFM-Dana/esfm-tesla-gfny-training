@@ -6,15 +6,24 @@ nav_order: 1
 
 # ESFM Tesla GFNY — Training Hub
 
-Welcome to the standardized training hub for frontline EVS operations at Tesla GFNY. This site keeps instructions consistent across all shifts and easy to access from any device.
+Choose a language to view the full site in that language. English remains the default.
 
-**Quick links**
-- **Restrooms / Showers** → [Open](restrooms.html)
-- **Cafés / Kitchenettes / Break Areas** → [Open](cafes.html)
-- **Lobbies / Entrances / Security** → [Open](lobbies.html)
-- **Route Cards & Frequencies** → [Open](route-cards.html)
-- **How to Contribute / Update** → [Open](about.html)
-- **Emergency Evacuation SOP** → [Open](emergency-evacuation)
-- **Docx Downloads** → [Open](downloads-docx)
+<div>
+  <p><a class="btn btn-primary" href="{{ "/" | relative_url }}">English</a></p>
+  <p><a class="btn" href="{{ "/es/" | relative_url }}">Español</a></p>
+  <p><a class="btn" href="{{ "/ar/" | relative_url }}">العربية</a></p>
+</div>
 
-> Keep content concise, visual, and action-focused. For printouts, use your browser’s *Print to PDF* and post in closets.
+## Quick links (English)
+- **Restrooms / Showers** → [Open]({{ "/restrooms" | relative_url }})
+- **Cafés / Kitchenettes / Break Areas** → [Open]({{ "/cafes" | relative_url }})
+- **Lobbies / Entrances / Security** → [Open]({{ "/lobbies" | relative_url }})
+- **Route Cards & Frequencies** → [Open]({{ "/route-cards" | relative_url }})
+- **How to Contribute / Update** → [Open]({{ "/about" | relative_url }})
+
+<hr/>
+
+<p class="text-small text-grey-dk-000 mt-4 mb-0">
+  © ESFM / Compass Group — Internal use for Tesla GFNY.
+  Last updated: {{ site.time | date: "%Y-%m-%d" }}
+</p>

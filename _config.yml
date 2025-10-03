@@ -27,3 +27,16 @@ last_edit_time_format: "%Y-%m-%d"
 footer_content: >
   © ESFM / Compass Group — Internal use for Tesla GFNY.
   Last updated: {{ site.time | date: "%Y-%m-%d" }}
+  © ESFM / Compass Group — Internal use for Tesla GFNY.
+  Last updated: {{ site.time | date: "%Y-%m-%d" }}
+
+collections:
+  es:
+    output: true
+    permalink: /es/:path/
+  ar:
+    output: true
+    permalink: /ar/:path/
+
+  Español — sitio completo: https://esfm-dana.github.io/esfm-tesla-gfny-training/es/
+  العربية — الموقع الكامل: https://esfm-dana.github.io/esfm-tesla-gfny-training/ar/
