@@ -14,5 +14,7 @@ Welcome to the standardized training hub for frontline EVS operations at Tesla G
 - **Lobbies / Entrances / Security** → [Open](lobbies.html)
 - **Route Cards & Frequencies** → [Open](route-cards.html)
 - **How to Contribute / Update** → [Open](about.html)
+- **Emergency Evacuation SOP** → [Open](emergency-evacuation)
+- **Docx Downloads** → [Open](downloads-docx)
 
 > Keep content concise, visual, and action-focused. For printouts, use your browser’s *Print to PDF* and post in closets.
