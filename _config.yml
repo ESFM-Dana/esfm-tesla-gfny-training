@@ -31,6 +31,9 @@ footer_content: >
   Last updated: {{ site.time | date: "%Y-%m-%d" }}
 
 collections:
+  docs:
+    output: true
+    permalink: /:path/
   es:
     output: true
     permalink: /es/:path/
@@ -38,5 +41,11 @@ collections:
     output: true
     permalink: /ar/:path/
 
-  Español — sitio completo: https://esfm-dana.github.io/esfm-tesla-gfny-training/es/
-  العربية — الموقع الكامل: https://esfm-dana.github.io/esfm-tesla-gfny-training/ar/
+just_the_docs:
+  collections:
+    docs:
+      name: English
+    es:
+      name: Español
+    ar:
+      name: العربية
