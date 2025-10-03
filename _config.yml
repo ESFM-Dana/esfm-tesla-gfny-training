@@ -2,17 +2,23 @@ title: ESFM Tesla GFNY Training
 description: Standardized frontline SOPs, route cards, and checklists for Tesla GFNY EVS.
 remote_theme: just-the-docs/just-the-docs
 
+# (Optional but fine to keep)
+# plugins:
+#   - jekyll-remote-theme
+
 # Site-wide settings
 logo: /assets/img/logo.png
 search_enabled: true
 color_scheme: nil
 
-# Navigation helpers
+# Navigation helpers (header links)
 aux_links:
-  ESFM Sharepoint Site: https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx
- Download Center — DOCX Originals: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx.html
-  Download Center: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads.html
-  Emergency Evacuation — EVS Playbook: https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation.html
+  "ESFM SharePoint Site": https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx
+  "Download Center — DOCX Originals": https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx
+  "Download Center": https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads
+  "Emergency Evacuation — EVS Playbook": https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation
+
+aux_links_new_tab: true
 
 # Footer
 footer_content: "© ESFM / Compass Group — Internal use for Tesla GFNY. Last updated: {{ site.time | date: '%Y-%m-%d' }}"
