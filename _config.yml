@@ -14,8 +14,8 @@ color_scheme: nil
 # Navigation helpers (header links)
 aux_links:
   "ESFM SharePoint Site": https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx
-  "Download Center — DOCX Originals": https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx
-  "Download Center": https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads
+  "Download Center — DOCX": https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx
+  "Download Center — PDF": https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads
   "Emergency Evacuation — EVS Playbook": https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation
 
 aux_links_new_tab: true
