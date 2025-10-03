@@ -21,4 +21,5 @@ aux_links:
 aux_links_new_tab: true
 
 # Footer
-footer_content: "© ESFM / Compass Group — Internal use for Tesla GFNY.  Last updated: {{ "now" | date: "%Y-%m-%d" }}"
+footer_content: " © ESFM / Compass Group — Internal use for Tesla GFNY.
+  Last updated: {{ "now" | date: "%Y-%m-%d" }}"
