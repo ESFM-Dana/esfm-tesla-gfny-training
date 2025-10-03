@@ -12,7 +12,7 @@ aux_links:
   ESFM Sharepoint Site: https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx
  Download Center — DOCX Originals: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx.html
   Download Center: https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads.html
-  Emergency Evacuation — EVS Playbook (All Shifts): https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation.html
+  Emergency Evacuation — EVS Playbook: https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation.html
 
 # Footer
 footer_content: "© ESFM / Compass Group — Internal use for Tesla GFNY. Last updated: {{ site.time | date: '%Y-%m-%d' }}"
