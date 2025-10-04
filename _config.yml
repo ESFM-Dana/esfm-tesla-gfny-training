@@ -2,33 +2,15 @@ title: ESFM Tesla GFNY Training
 description: Standardized frontline SOPs, route cards, and checklists for Tesla GFNY EVS.
 remote_theme: just-the-docs/just-the-docs
 
-# Add these so /restrooms, /downloads, etc. resolve correctly on a project site
+plugins:
+  - jekyll-remote-theme
+
+logo: /assets/img/logo.png
+search_enabled: true
+color_scheme: nil
+
 url: https://esfm-dana.github.io
 baseurl: /esfm-tesla-gfny-training
-
-# Site-wide settings
-logo: "/assets/img/logo.png"
-search_enabled: true
-# color_scheme: light   # (optional) remove or set to "dark" if you enable dark mode
-
-# Navigation helpers (header links)
-aux_links:
-  ESFM SharePoint Site: "https://cpgplc.sharepoint.com/sites/esfmtgfny/SitePages/CollabHome.aspx"
-  Download Center — DOCX: "https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads-docx"
-  Download Center — PDF: "https://esfm-dana.github.io/esfm-tesla-gfny-training/downloads"
-  Emergency Evacuation — EVS Playbook: "https://esfm-dana.github.io/esfm-tesla-gfny-training/emergency-evacuation"
-aux_links_new_tab: true
-
-# Optional: show "Last updated" in the page header (Git blame date)
-last_edit_timestamp: true
-last_edit_time_format: "%Y-%m-%d"
-
-# Footer
-footer_content: >
-  © ESFM / Compass Group — Internal use for Tesla GFNY.
-  Last updated: {{ site.time | date: "%Y-%m-%d" }}
-  © ESFM / Compass Group — Internal use for Tesla GFNY.
-  Last updated: {{ site.time | date: "%Y-%m-%d" }}
 
 collections:
   docs:
@@ -49,3 +31,15 @@ just_the_docs:
       name: Español
     ar:
       name: العربية
+
+aux_links:
+  Español — sitio completo: https://esfm-dana.github.io/esfm-tesla-gfny-training/es/
+  العربية — الموقع الكامل: https://esfm-dana.github.io/esfm-tesla-gfny-training/ar/
+aux_links_new_tab: true
+
+last_edit_timestamp: true
+last_edit_time_format: "%Y-%m-%d"
+
+footer_content: >
+  © ESFM / Compass Group — Internal use for Tesla GFNY.
+  Last updated: {{ site.time | date: "%Y-%m-%d" }}
