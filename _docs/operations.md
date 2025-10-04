@@ -6,7 +6,5 @@ has_children: true
 permalink: /operations/
 slug: operations
 ---
-
 {% include lang_switch.html slug="operations" %}
-
 # Operations & Add-ons

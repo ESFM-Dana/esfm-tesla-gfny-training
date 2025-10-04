@@ -1,36 +1,27 @@
 title: ESFM Tesla GFNY Training
-description: Standardized frontline SOPs, route cards, and checklists for Tesla GFNY EVS.
+description: SOPs and role-based route cards for Tesla GFNY EVS.
 remote_theme: just-the-docs/just-the-docs
-
 plugins:
   - jekyll-remote-theme
 
 logo: /assets/img/logo.png
 search_enabled: true
-color_scheme: nil
 
+# >>> EDIT THESE IF NEEDED <<<
 url: https://esfm-dana.github.io
 baseurl: /esfm-tesla-gfny-training
+# >>> EDIT THESE IF NEEDED <<<
 
 collections:
-  docs:
-    output: true
-    permalink: /:path/
-  es:
-    output: true
-    permalink: /es/:path/
-  ar:
-    output: true
-    permalink: /ar/:path/
+  docs: { output: true, permalink: "/:path/" }
+  es:   { output: true, permalink: "/es/:path/" }
+  ar:   { output: true, permalink: "/ar/:path/" }
 
 just_the_docs:
   collections:
-    docs:
-      name: English
-    es:
-      name: Español
-    ar:
-      name: العربية
+    docs: { name: English }
+    es:   { name: Español }
+    ar:   { name: العربية }
 
 aux_links:
   Español — sitio completo: https://esfm-dana.github.io/esfm-tesla-gfny-training/es/

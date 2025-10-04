@@ -6,7 +6,5 @@ has_children: true
 permalink: /roles/
 slug: roles
 ---
-
 {% include lang_switch.html slug="roles" %}
-
 # Roles & Training

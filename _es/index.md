@@ -7,4 +7,4 @@ permalink: /es/
 ---
 
 # Español
-Sección en español. Estas páginas reflejan el contenido del sitio en inglés.
+Sitio completo en español. Esta sección replica la estructura en inglés.

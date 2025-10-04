@@ -6,8 +6,7 @@ has_children: true
 permalink: /ar/
 ---
 
-<div dir="rtl" lang="ar" markdown="1">
+<div dir=""rtl"" lang=""ar"" markdown=""1"">
 # العربية
-
-قسم باللغة العربية يعكس محتوى الموقع باللغة الإنجليزية.
+هذا القسم يقدّم الموقع كاملاً باللغة العربية مع نفس الهيكل.
 </div>

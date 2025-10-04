@@ -6,7 +6,5 @@ has_children: true
 permalink: /frontline/
 slug: frontline
 ---
-
 {% include lang_switch.html slug="frontline" %}
-
 # Frontline SOPs
