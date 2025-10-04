@@ -1,0 +1,34 @@
+title: ESFM Tesla GFNY Training
+description: SOPs and role-based route cards for Tesla GFNY EVS.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+logo: /assets/img/logo.png
+search_enabled: true
+
+url: https://YOUR-USER.github.io
+baseurl: /YOUR-REPO
+
+collections:
+  docs: { output: true, permalink: "/:path/" }
+  es:   { output: true, permalink: "/es/:path/" }
+  ar:   { output: true, permalink: "/ar/:path/" }
+
+just_the_docs:
+  collections:
+    docs: { name: English }
+    es:   { name: Español }
+    ar:   { name: العربية }
+
+aux_links:
+  Español — sitio completo: https://YOUR-USER.github.io/YOUR-REPO/es/
+  العربية — الموقع الكامل: https://YOUR-USER.github.io/YOUR-REPO/ar/
+aux_links_new_tab: true
+
+last_edit_timestamp: true
+last_edit_time_format: "%Y-%m-%d"
+
+footer_content: >
+  © ESFM / Compass Group — Internal use for Tesla GFNY.
+  Last updated: {{ site.time | date: "%Y-%m-%d" }}

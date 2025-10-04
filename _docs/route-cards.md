@@ -1,13 +1,4 @@
----
-layout: default
-title: Route Cards & Frequencies
 
-nav_order: 6
-slug: route-cards
----
 
-{% include lang_switch.html slug="route-cards" %}
+Pick a role to view its route frequencies and notes.
 
-# Route Cards & Frequencies
-
-Content TBD.

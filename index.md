@@ -6,17 +6,15 @@ nav_order: 1
 
 # ESFM Tesla GFNY — Training Hub
 
-Choose a language to view the full site in that language. English remains the default.
+Pick your language.
 
-<div>
-  <p><a class="btn btn-primary" href="{{ "/" | relative_url }}">English</a></p>
-  <p><a class="btn" href="{{ "/es/" | relative_url }}">Español</a></p>
-  <p><a class="btn" href="{{ "/ar/" | relative_url }}">العربية</a></p>
+<div class="mb-6">
+  <a class="btn btn-primary" href="{{ "/" | relative_url }}">English</a>
+  <a class="btn" href="{{ "/es/" | relative_url }}">Español</a>
+  <a class="btn" href="{{ "/ar/" | relative_url }}">العربية</a>
 </div>
 
-## Quick links (English)
-- **Restrooms / Showers** → [Open]({{ "/restrooms" | relative_url }})
-- **Cafés / Kitchenettes / Break Areas** → [Open]({{ "/cafes" | relative_url }})
-- **Lobbies / Entrances / Security** → [Open]({{ "/lobbies" | relative_url }})
-- **Route Cards & Frequencies** → [Open]({{ "/route-cards" | relative_url }})
-- **How to Contribute / Update** → [Open]({{ "/about" | relative_url }})
+**Quick links (EN)**
+- [Frontline SOPs]({{ "/frontline/" | relative_url }})
+- [Route Cards (by Role)]({{ "/route-cards/" | relative_url }})
+- [Download Center]({{ "/downloads" | relative_url }})

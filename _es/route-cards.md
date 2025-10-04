@@ -1,13 +1,4 @@
----
-layout: default
-title: Tarjetas de Ruta y Frecuencias
 
-nav_order: 6
-slug: route-cards
----
 
-{% include lang_switch.html slug="route-cards" %}
+Elige un rol para ver sus frecuencias y notas.
 
-# Tarjetas de Ruta y Frecuencias
-
-Contenido pendiente.
