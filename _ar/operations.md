@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Operations & Add-ons — العربية
+title: العمليات والإضافات
 parent: العربية
 nav_order: 3
+has_children: true
+permalink: /ar/operations/
+slug: operations
 ---
 
-<div dir="rtl" lang="ar">
-# Operations & Add-ons — العربية
+{% include lang_switch.html slug="operations" %}
 
-الترجمة قيد الإعداد لصفحة **Operations & Add-ons**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/operations" | relative_url }})
+<div dir="rtl" lang="ar" markdown="1">
+# العمليات والإضافات
 </div>

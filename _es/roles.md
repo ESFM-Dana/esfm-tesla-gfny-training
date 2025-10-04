@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Roles & Training — Español
+title: Roles y Capacitación
 parent: Español
 nav_order: 4
+has_children: true
+permalink: /es/roles/
+slug: roles
 ---
 
-# Roles & Training — Español
+{% include lang_switch.html slug="roles" %}
 
-_Traducción pendiente de **Roles & Training**. Consulte la versión en inglés._
-
-> [Ver la página en inglés]({{ "/roles" | relative_url }})
+# Roles y Capacitación

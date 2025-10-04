@@ -1,12 +1,13 @@
 ---
 layout: default
-title: How to Contribute — Español
-parent: Español
-nav_order: 6
+title: Cómo Contribuir / Actualizar
+
+nav_order: 7
+slug: about
 ---
 
-# How to Contribute — Español
+{% include lang_switch.html slug="about" %}
 
-_Traducción pendiente de **How to Contribute**. Consulte la versión en inglés._
+# Cómo Contribuir / Actualizar
 
-> [Ver la página en inglés]({{ "/about" | relative_url }})
+Contenido pendiente.

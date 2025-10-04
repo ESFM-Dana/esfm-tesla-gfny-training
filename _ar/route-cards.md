@@ -1,14 +1,15 @@
 ---
 layout: default
 title: بطاقات المسارات والتكرارات
-parent: العربية
-nav_order: 5
+
+nav_order: 6
+slug: route-cards
 ---
 
-<div dir="rtl" lang="ar">
+{% include lang_switch.html slug="route-cards" %}
+
+<div dir="rtl" lang="ar" markdown="1">
 # بطاقات المسارات والتكرارات
 
-الترجمة قيد الإعداد لصفحة **Route Cards & Frequencies**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/route-cards" | relative_url }})
+المحتوى قيد الإعداد.
 </div>

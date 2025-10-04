@@ -3,12 +3,13 @@ layout: default
 title: المقاهي / المطابخ الصغيرة / مناطق الاستراحة
 parent: إجراءات التشغيل — الصف الأول
 nav_order: 2
+slug: cafes
 ---
 
-<div dir="rtl" lang="ar">
+{% include lang_switch.html slug="cafes" %}
+
+<div dir="rtl" lang="ar" markdown="1">
 # المقاهي / المطابخ الصغيرة / مناطق الاستراحة
 
-الترجمة قيد الإعداد لصفحة **Cafés / Kitchenettes / Break Areas**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/cafes" | relative_url }})
+المحتوى قيد الإعداد.
 </div>

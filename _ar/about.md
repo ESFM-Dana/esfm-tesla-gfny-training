@@ -1,14 +1,15 @@
 ---
 layout: default
-title: How to Contribute — العربية
-parent: العربية
-nav_order: 6
+title: كيفية المساهمة / التحديث
+
+nav_order: 7
+slug: about
 ---
 
-<div dir="rtl" lang="ar">
-# How to Contribute — العربية
+{% include lang_switch.html slug="about" %}
 
-الترجمة قيد الإعداد لصفحة **How to Contribute**. يُرجى مراجعة النسخة الإنجليزية.
+<div dir="rtl" lang="ar" markdown="1">
+# كيفية المساهمة / التحديث
 
-> [الاطلاع على الصفحة الإنجليزية]({{ "/about" | relative_url }})
+المحتوى قيد الإعداد.
 </div>

@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Operations & Add-ons — Español
+title: Operaciones y Complementos
 parent: Español
 nav_order: 3
+has_children: true
+permalink: /es/operations/
+slug: operations
 ---
 
-# Operations & Add-ons — Español
+{% include lang_switch.html slug="operations" %}
 
-_Traducción pendiente de **Operations & Add-ons**. Consulte la versión en inglés._
-
-> [Ver la página en inglés]({{ "/operations" | relative_url }})
+# Operaciones y Complementos

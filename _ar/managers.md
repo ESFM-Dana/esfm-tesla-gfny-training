@@ -3,12 +3,13 @@ layout: default
 title: المديرون — دليل EVS
 parent: الأدوار والتدريب
 nav_order: 1
+slug: managers
 ---
 
-<div dir="rtl" lang="ar">
+{% include lang_switch.html slug="managers" %}
+
+<div dir="rtl" lang="ar" markdown="1">
 # المديرون — دليل EVS
 
-الترجمة قيد الإعداد لصفحة **Managers — EVS Playbook**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/managers" | relative_url }})
+المحتوى قيد الإعداد.
 </div>

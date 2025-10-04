@@ -1,0 +1,6 @@
+{% assign slug = include.slug | default: page.slug %}
+<div class="mb-4">
+  <a class="btn btn-primary btn-sm" href="{{ "/" | relative_url }}">English</a>
+  <a class="btn btn-sm" href="{{ "/es/" | relative_url }}{{ slug }}">Español</a>
+  <a class="btn btn-sm" href="{{ "/ar/" | relative_url }}{{ slug }}">العربية</a>
+</div>

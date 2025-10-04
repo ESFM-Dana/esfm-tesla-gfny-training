@@ -3,10 +3,11 @@ layout: default
 title: Vestíbulos / Entradas / Seguridad
 parent: SOP de Operación — Frontline
 nav_order: 3
+slug: lobbies
 ---
+
+{% include lang_switch.html slug="lobbies" %}
 
 # Vestíbulos / Entradas / Seguridad
 
-_Traducción pendiente de **Lobbies / Entrances / Security**. Consulte la versión en inglés._
-
-> [Ver la página en inglés]({{ "/lobbies" | relative_url }})
+Contenido pendiente.

@@ -3,12 +3,13 @@ layout: default
 title: الردهات / المداخل / الأمن
 parent: إجراءات التشغيل — الصف الأول
 nav_order: 3
+slug: lobbies
 ---
 
-<div dir="rtl" lang="ar">
+{% include lang_switch.html slug="lobbies" %}
+
+<div dir="rtl" lang="ar" markdown="1">
 # الردهات / المداخل / الأمن
 
-الترجمة قيد الإعداد لصفحة **Lobbies / Entrances / Security**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/lobbies" | relative_url }})
+المحتوى قيد الإعداد.
 </div>

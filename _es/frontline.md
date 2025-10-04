@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Frontline SOPs — Español
+title: SOP de Operación — Frontline
 parent: Español
 nav_order: 2
+has_children: true
+permalink: /es/frontline/
+slug: frontline
 ---
 
-# Frontline SOPs — Español
+{% include lang_switch.html slug="frontline" %}
 
-_Traducción pendiente de **Frontline SOPs**. Consulte la versión en inglés._
-
-> [Ver la página en inglés]({{ "/frontline" | relative_url }})
+# SOP de Operación — Frontline

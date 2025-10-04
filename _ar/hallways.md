@@ -3,12 +3,13 @@ layout: default
 title: الممرات / الممرات الرئيسية
 parent: إجراءات التشغيل — الصف الأول
 nav_order: 4
+slug: hallways
 ---
 
-<div dir="rtl" lang="ar">
+{% include lang_switch.html slug="hallways" %}
+
+<div dir="rtl" lang="ar" markdown="1">
 # الممرات / الممرات الرئيسية
 
-الترجمة قيد الإعداد لصفحة **Hallways / Corridors**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/hallways" | relative_url }})
+المحتوى قيد الإعداد.
 </div>

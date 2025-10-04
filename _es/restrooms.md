@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Restrooms & Showers — Español
+title: Baños / Regaderas
 parent: SOP de Operación — Frontline
 nav_order: 1
+slug: restrooms
 ---
 
-# Restrooms & Showers — Español
+{% include lang_switch.html slug="restrooms" %}
 
-_Traducción pendiente de **Restrooms & Showers**. Consulte la versión en inglés._
+# Baños / Regaderas
 
-> [Ver la página en inglés]({{ "/restrooms" | relative_url }})
+Contenido pendiente.

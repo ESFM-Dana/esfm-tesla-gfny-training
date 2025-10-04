@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Roles & Training — العربية
+title: الأدوار والتدريب
 parent: العربية
 nav_order: 4
+has_children: true
+permalink: /ar/roles/
+slug: roles
 ---
 
-<div dir="rtl" lang="ar">
-# Roles & Training — العربية
+{% include lang_switch.html slug="roles" %}
 
-الترجمة قيد الإعداد لصفحة **Roles & Training**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/roles" | relative_url }})
+<div dir="rtl" lang="ar" markdown="1">
+# الأدوار والتدريب
 </div>

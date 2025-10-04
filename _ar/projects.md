@@ -3,12 +3,13 @@ layout: default
 title: أعمال المشاريع — التخطيط وضمان الجودة
 parent: الأدوار والتدريب
 nav_order: 5
+slug: projects
 ---
 
-<div dir="rtl" lang="ar">
+{% include lang_switch.html slug="projects" %}
+
+<div dir="rtl" lang="ar" markdown="1">
 # أعمال المشاريع — التخطيط وضمان الجودة
 
-الترجمة قيد الإعداد لصفحة **Project Work — Planning & QA**. يُرجى مراجعة النسخة الإنجليزية.
-
-> [الاطلاع على الصفحة الإنجليزية]({{ "/projects" | relative_url }})
+المحتوى قيد الإعداد.
 </div>

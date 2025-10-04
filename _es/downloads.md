@@ -3,39 +3,36 @@ layout: default
 title: Centro de Descargas
 parent: Español
 nav_order: 16
+slug: downloads
 ---
 
+{% include lang_switch.html slug="downloads" %}
 
 # Centro de Descargas
 
-All printable SOPs, quick cards, and forms by role.  
-Files below are **PDF** (mobile-friendly, printable).
-
-
-## Frontline (All EVS)
-- [End of Shift — Frontline (PDF)]({{ "/assets/files/es/frontline/End-of-Shift-Frontline.pdf" | relative_url }})
-- [Restrooms — Daily Checklist (PDF)]({{ "/assets/files/es/frontline/Restrooms-Daily-Checklist.pdf" | relative_url }})
-- [Cafés — Duties (PDF)]({{ "/assets/files/es/frontline/Cafes-Duties.pdf" | relative_url }})
-- [Lobbies — Daily Standards (PDF)]({{ "/assets/files/es/frontline/Lobbies-Standards.pdf" | relative_url }})
-
-## Shift Leads
-- [Shift Lead — Quick Card (PDF)]({{ "/assets/files/es/shift-leads/Shift-Lead-Quick-Card.pdf" | relative_url }})
-- [Route Audit — One Pager (PDF)]({{ "/assets/files/es/shift-leads/Route-Audit-One-Pager.pdf" | relative_url }})
-
-## Managers
-- [End of Shift — Manager Handoff (PDF)]({{ "/assets/files/es/managers/End-of-Shift-Manager-Handoff.pdf" | relative_url }})
-- [Discrepancy Review — Checklist (PDF)]({{ "/assets/files/es/managers/Discrepancy-Review-Checklist.pdf" | relative_url }})
-
-## Floor Techs
-- [Auto-Scrubber — Daily Care (PDF)]({{ "/assets/files/es/floor-techs/Auto-Scrubber-Daily-Care.pdf" | relative_url }})
-- [Floor Care — Safety & PPE (PDF)]({{ "/assets/files/es/floor-techs/Floor-Care-Safety.pdf" | relative_url }})
-
-## Factory EVS
-- [Factory EVS — Standards (PDF)]({{ "/assets/files/es/factory-evs/Factory-EVS-Standards.pdf" | relative_url }})
-- [High-Traffic Aisle — Spill Response (PDF)]({{ "/assets/files/es/factory-evs/Aisle-Spill-Response.pdf" | relative_url }})
-
-## Projects
-- [Project Plan — Template (PDF)]({{ "/assets/files/es/projects/Project-Plan-Template.pdf" | relative_url }})
-- [Kaivac Cycle — Checklist (PDF)]({{ "/assets/files/es/projects/Kaivac-Cycle-Checklist.pdf" | relative_url }})
-- [Project Workers — Quick Card (PDF)]({{ "/assets/files/es/projects/Project-Workers-Training-Quick-Card.pdf" | relative_url }})
-
+- [all serviceable areas for compass  (1).docx]({{ '/assets/files/es/all serviceable areas for compass  (1).docx' | relative_url }})
+- [bathroom route card 1st shift .docx]({{ '/assets/files/es/bathroom route card 1st shift .docx' | relative_url }})
+- [Best_Practices_Guide 2.docx]({{ '/assets/files/es/Best_Practices_Guide 2.docx' | relative_url }})
+- [Daily_End_of_Shift_Procedures.docx]({{ '/assets/files/es/Daily_End_of_Shift_Procedures.docx' | relative_url }})
+- [Daily_End_of_Shift_Procedures_2.docx]({{ '/assets/files/es/Daily_End_of_Shift_Procedures_2.docx' | relative_url }})
+- [Document.docx]({{ '/assets/files/es/Document.docx' | relative_url }})
+- [ESFM_Tesla_GFNY_Leadership_Playbook.docx]({{ '/assets/files/es/ESFM_Tesla_GFNY_Leadership_Playbook.docx' | relative_url }})
+- [GFNY Janitorial Services WO compass .docx]({{ '/assets/files/es/GFNY Janitorial Services WO compass .docx' | relative_url }})
+- [GFNY Trash Collection Training Manual.docx]({{ '/assets/files/es/GFNY Trash Collection Training Manual.docx' | relative_url }})
+- [GFNY_Cafés_Kitchenettes_Zone_Training_Manual.docx]({{ '/assets/files/es/GFNY_Cafés_Kitchenettes_Zone_Training_Manual.docx' | relative_url }})
+- [GFNY_Exteriors_Lobbies_Zone_Training_Manual.docx]({{ '/assets/files/es/GFNY_Exteriors_Lobbies_Zone_Training_Manual.docx' | relative_url }})
+- [GFNY_Floor Tech_Training.docx]({{ '/assets/files/es/GFNY_Floor Tech_Training.docx' | relative_url }})
+- [GFNY_Janitor_Training.docx]({{ '/assets/files/es/GFNY_Janitor_Training.docx' | relative_url }})
+- [GFNY_Lead_Training.docx]({{ '/assets/files/es/GFNY_Lead_Training.docx' | relative_url }})
+- [GFNY_Manager_Training.docx]({{ '/assets/files/es/GFNY_Manager_Training.docx' | relative_url }})
+- [GFNY_Offices_Training Rooms_Zone_Training_Manual.docx]({{ '/assets/files/es/GFNY_Offices_Training Rooms_Zone_Training_Manual.docx' | relative_url }})
+- [GFNY_Project Worker_Training.docx]({{ '/assets/files/es/GFNY_Project Worker_Training.docx' | relative_url }})
+- [GFNY_QR_Process_Quick_Guide_Final.docx]({{ '/assets/files/es/GFNY_QR_Process_Quick_Guide_Final.docx' | relative_url }})
+- [GFNY_Restrooms_Zone_Training_Manual.docx]({{ '/assets/files/es/GFNY_Restrooms_Zone_Training_Manual.docx' | relative_url }})
+- [GFNY_Warehouses_Production_Zone_Training_Manual.docx]({{ '/assets/files/es/GFNY_Warehouses_Production_Zone_Training_Manual.docx' | relative_url }})
+- [route card - compass cafes .docx]({{ '/assets/files/es/route card - compass cafes .docx' | relative_url }})
+- [route card - meditation rooms - ,compass .docx]({{ '/assets/files/es/route card - meditation rooms - ,compass .docx' | relative_url }})
+- [route card - mothers rooms - compass .docx]({{ '/assets/files/es/route card - mothers rooms - compass .docx' | relative_url }})
+- [route card - office space - esfm .docx]({{ '/assets/files/es/route card - office space - esfm .docx' | relative_url }})
+- [route card - trash - compass .docx]({{ '/assets/files/es/route card - trash - compass .docx' | relative_url }})
+- [route cards - lobby and sanitation - compass .docx]({{ '/assets/files/es/route cards - lobby and sanitation - compass .docx' | relative_url }})

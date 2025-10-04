@@ -1,12 +1,13 @@
 ---
 layout: default
-title: End of Shift — Español
+title: Fin de Turno
 parent: Español
 nav_order: 5
+has_children: true
+permalink: /es/end-of-shift/
+slug: end-of-shift
 ---
 
-# End of Shift — Español
+{% include lang_switch.html slug="end-of-shift" %}
 
-_Traducción pendiente de **End of Shift**. Consulte la versión en inglés._
-
-> [Ver la página en inglés]({{ "/end-of-shift" | relative_url }})
+# Fin de Turno

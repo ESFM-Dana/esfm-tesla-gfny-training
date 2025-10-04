@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Restrooms & Showers — العربية
+title: دورات المياه / الاستحمام
 parent: إجراءات التشغيل — الصف الأول
 nav_order: 1
+slug: restrooms
 ---
 
-<div dir="rtl" lang="ar">
-# Restrooms & Showers — العربية
+{% include lang_switch.html slug="restrooms" %}
 
-الترجمة قيد الإعداد لصفحة **Restrooms & Showers**. يُرجى مراجعة النسخة الإنجليزية.
+<div dir="rtl" lang="ar" markdown="1">
+# دورات المياه / الاستحمام
 
-> [الاطلاع على الصفحة الإنجليزية]({{ "/restrooms" | relative_url }})
+المحتوى قيد الإعداد.
 </div>
